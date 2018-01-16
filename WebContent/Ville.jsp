@@ -35,7 +35,7 @@
                     
                     <td><c:out value="${ville.Nom_commune}"  /></td>
                     <td><c:out value="${ville.Code_postal}"  /></td>
-                    
+                    <td><c:out value="${ville.Code_postal}"  /></td>
                 </tr>
             </c:forEach>
         </table>
